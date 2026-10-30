@@ -280,3 +280,14 @@ More advanced techniques such as dynamic programming or meet-in-the-middle appro
 - Computer Science Department
 - Course: CS3012 – Algorithm Analysis
 - Instructor: Dr. Omar AlZoubi
+
+## Project Contributors
+
+This project was collaboratively developed by:
+
+- **Hiba Amanulla** — [GitHub](https://github.com/Hiba144CS)
+- **Ghala Al-Ghamdi** — [GitHub](https://github.com/gghalaa)
+
+Both contributors participated equally in the development, implementation, and evaluation of this project.
+
+The project was completed collaboratively before being uploaded to GitHub.
